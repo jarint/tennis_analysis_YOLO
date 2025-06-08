@@ -4,3 +4,5 @@ RoboFlow + YoloV8 + PyTorch
 
 
 coming soon!
+
+ok fine, i'll start tomorrow.
