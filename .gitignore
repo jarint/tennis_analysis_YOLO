@@ -196,3 +196,41 @@ cython_debug/
 
 ### FOLDER TO IGNORE
 input_videos/
+
+
+# Conda environment folders
+.env/
+.venv/
+cv_env/
+
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# PyTorch model checkpoints
+*.pt
+*.pth
+*.ckpt
+
+# Training logs and metadata
+*.log
+*.json
+*.yaml
+*.onnx
+
+
+
+# TensorBoard logs
+runs/
+events.out.tfevents.*
+
+# Dataset cache
+*.zip
+*.tar
+*.tar.gz
+*.npy
+*.npz
+.cache/
+data/
+datasets/
+checkpoints/
