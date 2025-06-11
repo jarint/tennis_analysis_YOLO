@@ -195,7 +195,7 @@ cython_debug/
 
 
 ### FOLDER TO IGNORE
-input_videos/
+#input_videos/
 
 
 # Conda environment folders
