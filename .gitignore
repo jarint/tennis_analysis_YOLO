@@ -196,6 +196,7 @@ cython_debug/
 
 ### FOLDER TO IGNORE
 #input_videos/
+training/tennis-ball-detection-6
 
 
 # Conda environment folders
