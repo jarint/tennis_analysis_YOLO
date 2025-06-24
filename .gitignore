@@ -213,7 +213,7 @@ cv_env/
 *.pth
 *.ckpt
 
-# Training logs and metadata
+# Training logs and metadata files
 *.log
 *.json
 *.yaml
